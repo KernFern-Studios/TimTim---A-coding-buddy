@@ -24,3 +24,6 @@ Step 4: Click on "Load unpacked."
 Step 5: Select the `TimTim-Chrome-Extension` folder from the extracted files.
 
 Step 6: You are all set! Enjoy your coding companion.
+
+### About the Developers
+TimTim is developed by KernFern Studios, an independent game and software development studio dedicated to creating versatile file utilities and intuitive software solutions.
